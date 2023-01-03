@@ -1,0 +1,12 @@
+h1 {
+    font-size: 3em;
+    font-family: fantasy;
+    text-align: center;
+    border-bottom: 2px solid red;
+    box-shadow: 12px 10px 14px #888888;
+}
+
+.col {
+    background-color: grey;
+    border: 1px solid black;
+}
